@@ -8,4 +8,4 @@ Twitterのwebアプリのツイート画面、通知画面、DM画面にアク�
 
 特に意味はない。
 
-
+[screenshot](https://github.com/Hirai0827/Stop_Twitter_Before_You_Feel_Misery/blob/master/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3488.PNG)
