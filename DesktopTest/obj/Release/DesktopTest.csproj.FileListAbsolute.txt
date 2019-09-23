@@ -1,0 +1,15 @@
+D:\Rider\RiderProject\DesktopTest\DesktopTest\bin\Release\DesktopTest.exe.config
+D:\Rider\RiderProject\DesktopTest\DesktopTest\bin\Release\DesktopTest.exe
+D:\Rider\RiderProject\DesktopTest\DesktopTest\bin\Release\DesktopTest.pdb
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\DesktopTest.csprojAssemblyReference.cache
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\MainWindow.g.cs
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\App.g.cs
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\DesktopTest_MarkupCompile.cache
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\DesktopTest_MarkupCompile.lref
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\MainWindow.baml
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\DesktopTest.g.resources
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\DesktopTest.Properties.Resources.resources
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\DesktopTest.csproj.GenerateResource.cache
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\DesktopTest.csproj.CoreCompileInputs.cache
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\DesktopTest.exe
+D:\Rider\RiderProject\DesktopTest\DesktopTest\obj\Release\DesktopTest.pdb

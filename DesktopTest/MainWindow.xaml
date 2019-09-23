@@ -1,0 +1,19 @@
+﻿<Window x:Class="DesktopTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DesktopTest"
+        mc:Ignorable="d"
+        Title="惨めな気分になる前にTwitterを辞めろ" Height="350" Width="525">
+    <Grid>
+        <Label Content="投稿" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="87" Height="24"/>
+        <Label Content="通知" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="87" Height="24"/>
+        <Label Content="DM" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="87" Height="24"/>
+        <TextBlock FontSize="32" Height="40" HorizontalAlignment="Right" Margin="10,10,0,0" Text="惨めな気分になる前にTwitterを辞めろ" VerticalAlignment="Bottom" /> 
+        <Button Content="投稿する" HorizontalAlignment="Left" Margin="50,10,0,0" VerticalAlignment="Top" Width="87" Height="24" Click="OpenPostWindow"/>
+        <Button Content="確認する" HorizontalAlignment="Left" Margin="50,50,0,0" VerticalAlignment="Top" Width="87" Height="24" Click="OpenNotificationWindow"/>
+        <Button Content="確認する" HorizontalAlignment="Left" Margin="50,90,0,0" VerticalAlignment="Top" Width="87" Height="24" Click="OpenDirectMessageWindow"/>
+        <CheckBox Content="Hashtag" Name="CheckBox_UseHashtag" Height="24" Width="75" HorizontalAlignment="Left" Margin="0,130,0,0" VerticalAlignment="Top" FlowDirection="RightToLeft" />
+    </Grid>
+</Window>
